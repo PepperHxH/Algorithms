@@ -1,2 +1,2 @@
-# LeetCode
+# LeetCode 🧀
 fiting!(ง •_•)ง
