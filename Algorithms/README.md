@@ -10,8 +10,9 @@
     <th>Solutions</th>
   </tr>
   <tr>
-    <th>3.</th>
-    <th>lengthOfLongestSubstring.java</th>
+    <th><a href = "3. Longest Substring Without Repeating Char</th>
+    <th><a href = "https://github.com/PepperHxH/LeetCode/blob/master/Algorithms/lengthOfLongestSubstring.java">
+      lengthOfLongestSubstring.java</a></th>
   </tr>
   <tr>
     <th>5. Longest Palindromic Substring</th>
