@@ -15,6 +15,6 @@
   </tr>
   <tr>
     <th>5. Longest Palindromic Substring</th>
-    <th>longestPalindrome.java</th>
+    <th><a href = "https://github.com/PepperHxH/LeetCode/blob/master/Algorithms/longestPalindrome.java">longestPalindrome.java</a></th>
   </tr>
 </table>
