@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <th>3.</th>
-    <th>.java</th>
+    <th>lengthOfLongestSubstring.java</th>
   </tr>
   <tr>
     <th>5. Longest Palindromic Substring</th>
