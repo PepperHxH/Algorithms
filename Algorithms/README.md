@@ -10,7 +10,7 @@
     <th>Solutions</th>
   </tr>
   <tr>
-    <th><a href = "3. Longest Substring Without Repeating Char</th>
+    <th>3. Longest Substring Without Repeating Char</th>
     <th><a href = "https://github.com/PepperHxH/LeetCode/blob/master/Algorithms/lengthOfLongestSubstring.java">lengthOfLongestSubstring.java</a></th>
   </tr>
   <tr>
