@@ -10,7 +10,7 @@
     <th>Solutions</th>
   </tr>
   <tr>
-    <th><a = href = "https://leetcode.com/problems/2sum/">1. 2Sum</a></th>
+    <th><a = href = "https://leetcode.com/problems/two-sum/">1. 2Sum</a></th>
     <th><a href = "https://github.com/PepperHxH/LeetCode/blob/master/Algorithms/twoSum.java">twoSum.java</a></th>
   </tr>
   <tr>
