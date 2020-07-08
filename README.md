@@ -12,3 +12,18 @@ function FlatArr(arr) {
 }
 console.log(FlatArr(arrTest));
 ```
+
+#### 2.实现add(1)(2)(3)(4)累加
+```javascript
+var add = function(m) {
+    var temp = function(n) {
+        return add(m+n)
+    }
+    temp.toString = function () {
+        return m
+    }
+    return temp
+}
+var a = add(1)(2)(3)(4)
+console.log(a)  
+```
