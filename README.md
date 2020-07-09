@@ -27,3 +27,15 @@ var add = function(m) {
 var a = add(1)(2)(3)(4)
 console.log(a)  
 ```
+#### 3.翻转二叉树
+```javascript
+var invertTree = function(root) {
+    if(!root) return null
+    let tmp = root.left
+    root.left = root.right
+    root.right = tmp
+    invertTree(root.left)
+    invertTree(root.right)
+    return root
+};
+```
