@@ -90,6 +90,7 @@ var findKthLargest = function(nums, k) {
 ```
 
 #### 排序合集
+```javascript
 // 冒泡排序
 function bubbleSort(arr) {
     let flag;
@@ -135,7 +136,7 @@ function quickSort(arr, left, right) {
     return arr
 }
 
-
 let arr = [5,2,4,1,3,6,0]
 quickSort(arr)
 console.log(arr)
+```
