@@ -38,4 +38,12 @@ var invertTree = function(root) {
     invertTree(root.right)
     return root
 };
+
+//解构赋值
+var invertTree = function(root) {
+    if(root !== null){
+        [root.left, root.right] = [invertTree(root.right), invertTree(root.left)]
+    }
+    return root
+};
 ```
